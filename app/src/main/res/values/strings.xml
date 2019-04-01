@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="name">Сальме Ибраим</string>
+    <string name="address">Ул 50 лет СССР дом 72</string>
+    <string name="number">+79780534913</string>
+    <string name="disease">Болезнь: Астма, Язва</string>
+    <string name="allergy">Алеергия: Лимон</string>
+    <string name="first_aid">Убедитесь, что ничто не отяжеляет горло: удалите шарф, расслабьте галстук, осторожно попытайтесь стянуть через голову свитер с узким длинным воротником.</string>
+    <string name="nearest_pharmacy">ближайшая аптека</string>
+    <string name="nearest_hospital">ближайшая больница</string>
 </resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"/>
+    <TextView style="@style/MyStyle"
+        android:text="@string/address"/>
+    <TextView style="@style/MyStyle"
+        android:text="@string/number"
+        android:textColor="@color/colorLink"/>
+    <TextView style="@style/MyStyle"
+        android:text="@string/allergy"/>
+    <TextView style="@style/MyStyle"  android:text="@string/disease"/>
+    <TextView
+        style="@style/MyStyle"
+        android:text="@string/first_aid"
+        android:gravity="center_vertical"/>
+    <Button
+        android:id="@+id/pharmacy"
+        android:text="@string/nearest_pharmacy"
+        style="@style/MyButoon" />
+    <Button
+        android:id="@+id/hospital"
+        android:text="@string/nearest_hospital"
+        style="@style/MyButoon" />
+
+
+</LinearLayout>
